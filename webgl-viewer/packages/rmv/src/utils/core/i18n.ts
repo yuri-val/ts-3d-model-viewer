@@ -60,6 +60,7 @@ const enMessages = {
   公网: 'Internet',
   来源: 'Source',
   简约: 'Simplicity',
+  该类型暂不支持预览: 'This type is not supported for preview',
 };
 
 export function i18nFormat(id: string) {
